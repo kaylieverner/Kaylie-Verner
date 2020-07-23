@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Router, Link, Switch, Route } from 'react-router-dom'; 
+import { BrowserRouter, Route } from 'react-router-dom'; 
 import Home from './Home.js';  
 // import { Box, Button, Heading, Grommet } from 'grommet';
 import "./App.css";

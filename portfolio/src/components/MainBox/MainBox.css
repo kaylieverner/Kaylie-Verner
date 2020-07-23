@@ -1,0 +1,64 @@
+#LinksContainer {
+    height: 84px;
+}
+
+.MainLinksDiv {
+	display: table;  
+	margin: 0 auto;
+}
+
+ul#MainLinksList {
+    list-style: none;
+    padding: 0;
+    padding-top: 20px;
+	}
+	ul#MainLinksList li {
+        display: inline;
+        font-size: 20px;
+    }
+    
+.MainBox {
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+.MainBoxContents {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+  }
+  
+  /* include border and padding in element width and height */
+  * {
+    box-sizing: border-box;
+  }
+  
+  /* full-sized  container that fills up the page */
+  .MainBox {
+    padding: 70px 0;
+    text-align: center;
+    height: 100vh;
+    width: 100vw;
+  
+    /* example padding, font-size, background, etc */
+    padding: 10px;
+    font-size: 20px;
+    background-color: lightskyblue;
+  }
