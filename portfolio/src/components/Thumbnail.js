@@ -1,6 +1,6 @@
 import React from 'react'; 
 import {Link} from 'react-router-dom'; 
-import './App.css';
+import '../App.css';
  
  
 function Thumbnail(props) {
@@ -12,7 +12,7 @@ function Thumbnail(props) {
           </div>
           <div className="project-title">{props.title}</div>
           <div className="project-category">{props.category}</div>
-              </Link>
+        </Link>
       </div>
     )
   }
