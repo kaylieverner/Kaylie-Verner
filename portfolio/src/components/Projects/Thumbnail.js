@@ -1,6 +1,6 @@
 import React from 'react'; 
 import {Link} from 'react-router-dom'; 
-// import '../App.css';
+import "./Projects.css";
  
  
 function Thumbnail(props) {
@@ -12,9 +12,9 @@ function Thumbnail(props) {
         <div className="text">
         <h3>{props.title}</h3>
           <p>{props.description}</p>
-          <button type="button" className="btn btn-light"><a target="_blank"
+          <button type="button" className="btn btn-link"><a target="_blank"
               href={props.github}>Repository</a></button>
-              <button type="button" className="btn btn-light"><a target="_blank"
+              <button type="button" className="btn btn-link"><a target="_blank"
               href={props.link}>Link</a></button>
         </div>
       </div>
