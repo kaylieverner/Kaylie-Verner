@@ -14,7 +14,7 @@ function Thumbnail(props) {
           <p>{props.description}</p>
           <button type="button" className="btn btn-link"><a target="_blank"
               href={props.github}>Repository</a></button>
-              <button type="button" className="btn btn-link"><a target="_blank"
+          <button type="button" className="btn btn-link"><a target="_blank"
               href={props.link}>Link</a></button>
         </div>
       </div>
