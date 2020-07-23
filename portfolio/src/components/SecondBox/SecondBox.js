@@ -12,6 +12,8 @@ function SecondBox() {
         <div className="SecondBoxContents">
          <About/>
          <Skills/>  
+         <Projects/>
+         <Contact/>  
         </div>
     </div>
   );
