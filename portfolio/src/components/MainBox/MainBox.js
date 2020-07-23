@@ -13,10 +13,10 @@ function MainBox() {
         <div id="LinksContainer">
         <div className="MainLinksDiv">
           <ul id="MainLinksList">
-            <li><a href="#">About</a>  </li>
-            <li><a href="#">Skills</a>  </li>
-            <li><a href="#">Project</a>  </li>
-            <li><a href="#">Contact</a>  </li>
+            <li><a href="#">About</a> </li>
+            <li><a href="#">Skills</a> </li>
+            <li><a href="#">Project</a> </li>
+            <li><a href="#">Contact</a> </li>
           </ul>
         </div>
         </div>
