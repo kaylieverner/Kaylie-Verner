@@ -1,6 +1,6 @@
 import React from "react";
-import Thumbnail from "./components/Thumbnail";
-import "./App";
+import Thumbnail from "./Thumbnail";
+// import "./App";
 import { Grommet } from 'grommet';
 
 function Projects(props) {

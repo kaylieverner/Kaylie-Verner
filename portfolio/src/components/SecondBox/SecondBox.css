@@ -1,8 +1,7 @@
 .SecondBox {
-    text-align: center;
+    text-align: left;
     min-height: 100vh;
     padding: 70px 0;
-    text-align: center;
     height: 100vh;
     width: 100vw;
   
@@ -10,7 +9,6 @@
     font-size: 20px;
     background-color: grey;
 }
-
 
 html,
 body {
