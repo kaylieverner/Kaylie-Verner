@@ -40,16 +40,18 @@ body {
   padding: 0;
 }
 
-body {
+/* body {
     height: 100vh;
     width: 100vw;
-  }
+  } */
   
   * {
     box-sizing: border-box;
   }
   
   .MainBox {
+    min-height: 100vh;
+    /*  */
     padding: 70px 0;
     text-align: center;
     height: 100vh;
