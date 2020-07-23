@@ -3,7 +3,7 @@ import React from "react";
 function About() {
 
   return (
-    <div className="About">
+    <div className="About" id="About">
         <div className="AboutContents">  
         <h3>About</h3>
         <p>Full Stack Web Developer and experienced Technical Success Manager based in NJ. My professional background has included roles in client support and data management. After gaining exposure to the SaaS industry, I solidified my interest to pursue coding. I then enrolled in a full stack web development course and have continued to expand my knowledge ever since. 

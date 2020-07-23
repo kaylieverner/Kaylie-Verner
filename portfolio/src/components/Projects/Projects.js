@@ -4,7 +4,7 @@ import "./Projects.css";
 
 function Projects(props) {
     return (
-    <div className="projects-div">
+    <div className="projects-div" id="Projects">
         <div className="row" >
             <div className="col">
                 <h3>Projects</h3>
