@@ -38,6 +38,11 @@ html,
 body {
   margin: 0;
   padding: 0;
+  background: url(https://lh3.googleusercontent.com/5UXbzh9lrfUzlUFW6gjS0gsoQL11ZJ0-11_lCfVduBMfI2Vy6-f6BeuC5st3nkWm3JpfGy8AkfMvaV3381O6O15caT0WQACaSW9Rj3jbOs0MAYmccVab5MCqiaSLloFUyFkMXvpskqPwxnlZ8NvTh8pG-okZXp9epc7ncC-_pOQE0rn3UGl9luX0zfhAVp5d8DHcvIyUXpl9lPmDyMSNIou7s-Eod_Kj68bbnFiKiurYACQnNoO98M0mhVQy7eYB93R6hvkLlQPhXtUS1seBG2-EaeBLY4gJaA96ZWplle7eGD98X7ZJO9SnAdRS7AJQ4BEPXzjcfTUFNVB85HBRRMLo_FOjVgPWLWFksIoczW9hrUgsleW6599QpYbTiMtOq2nzHb1eSqqmUOVFNxltqqlOUFiJSsfJCNnPmj7aFUSvdjPx1L1auyG0hfpqnD7F6vzFXl8MsxUon57w_kwf72y0Ta257BWMhyXZetJU8aKVePHcX0erx4ExUpNn663jaOwDuRyp7yxz1N2ajc8NktaA5SkRtg7Y1-g3GOwFjnY4nya1lijiPCjQhNOKMtuc59a4jKc_cpDPCwxk2x3ejoNRjzWW4MEMKoQYP2KYQc3VClzgZMhbwn32M1RE3KZm8Tx5sEiank1UaQS3m28DCR9ebfqPn1QsGZJzNE1yG5k6KN_eWnrUSSGvvBIglw=w2223-h1481-no?authuser=0)  no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 /* body {
@@ -59,5 +64,5 @@ body {
   
     padding: 10px;
     font-size: 20px;
-    background-color: lightskyblue;
+
   }

@@ -1,4 +1,4 @@
-.SecondBox {
+.ThirdBox {
     text-align: left;
     min-height: 100vh;
     padding: 70px 0;
@@ -7,14 +7,16 @@
   
     padding: 10px;
     font-size: 20px;
+    
 }
 
 html,
 body {
   margin: 0;
   padding: 0;
+  
 }
   
   * {
-    box-sizing: border-box;
+    box-sizing: border-box no-repeat center center fixed;
   }

@@ -1,20 +1,20 @@
 import React from "react";
-import "./SecondBox.css";
+import "./ThirdBox.css";
 import About from "../About/About";
 import Skills from "../Skills/Skills";
 import Projects from "../Projects/Projects";
 import Contact from "../Contact/Contact";
 
-function SecondBox() {
+function ThirdBox() {
 
   return (
-    <div className="SecondBox">
-        <div className="SecondBoxContents">
-         <About/>
-         <Skills/>  
+    <div className="ThirdBox">
+        <div className="ThirdBoxContents">
+         <Projects/>
+         <Contact/>   
         </div>
     </div>
   );
 }
 
-export default SecondBox;
+export default ThirdBox;
