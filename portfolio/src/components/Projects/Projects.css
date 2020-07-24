@@ -2,11 +2,20 @@
     position: relative;
     width: 50%;
   }
+
+  .projectRow {
+    margin: auto;
+  }
   
   .project-image {
     display: block;
     width: 100%;
-    height: auto;
+    height: 400;
+  }
+
+  .projects-div {
+      margin: auto;
+      padding: 65px 65px 0px 65px;
   }
   
   .overlay {

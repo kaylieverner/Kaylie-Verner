@@ -4,13 +4,10 @@ import "./Projects.css";
 
 function Projects(props) {
     return (
-    <div className="projects-div" id="Projects">
-        <div className="row" >
-            <div className="col">
-                <h3>Projects</h3>
-            </div>
-        </div>
-        <div className="row mb-5">
+    <div className="projects-div row" id="Projects">
+        <h3 className="mb-4">Projects</h3>
+
+        <div className="row mb-5 projectRow">
             <Thumbnail
                 link="https://lit-woodland-41729.herokuapp.com"
                 image="https://lh3.googleusercontent.com/jLKDYcwZRfQi8DMIucHpJUWs64SWoegiDCNRuXnMX4knXFB5D7BWfRoNZd3xdundFkgkaezHQfw-8mLOq16a1VMsLHfbtjMHkAHHrW923gDTYJgjBQyKwCvUuq9KW5S9M7x59n8BnN5LhxlFkwiqsO8AJx1rqRW9iDBbbVq65kh5ijqRYpniVnKWhpTKjKmn8PHDBMgztopDKzFiW-Zs_ra_HiObar6uX_KOX0IXKqrPULlFiFwfUU-Ay_j-TeqtrFB5hWtGlvE7RKlkPvq0ILOZ2rDbtBd1PUXqNs409B1S1Z1XU-lnC5u8UIyaLbR4OO1P5h4yGLXfzIkWDztl8QmJURuRuWSQvnO6p3AxnewhmEP5JVffKInbjeoHVSlT_TdwN6nPgNFRw_JPZVy1n3FE9Hk36SlTB0LcjVBJDSt-a1B0CDCMsHMhGzo1s3UPhTzsqSZlSmpPioKZvDrGXc0rkaKI3gAqW01VLL-2vZvO0oVVWi_O8x0BN-aMaMwvrQRgAQrTERLGgbZFDKwY-I5M9QMqBZDhNVW0a2CNs5tMn80sm_qZro9tjMD1nfsnxuUjZ4zKx6PWUfoCC-z8gCS4niMiUQVBpAFPmVAl8VTkPoqsEZenyFnQe0qGZNWpXzVmB7YxazPFIsx8Mfrmxb2hhPU9iFpcHO9Sjs2XhXpGRgqkaJG_YRc-8WbM6aQ=w2274-h1376-no?authuser=0"
@@ -33,7 +30,7 @@ function Projects(props) {
                 github="https://github.com/kaylieverner/Note-Taker"
             />
         </div>
-    </div> 
+        </div>
     )
 }
 
