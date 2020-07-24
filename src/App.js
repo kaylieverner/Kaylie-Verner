@@ -9,6 +9,6 @@ function App() {
     <Route path='/' component={Home}/>
   </BrowserRouter>
   );
-}
+};
  
 export default App;
