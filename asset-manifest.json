@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Kaylie-Verner/static/css/main.1afc41c1.chunk.css",
+    "main.js": "/Kaylie-Verner/static/js/main.40d45477.chunk.js",
+    "main.js.map": "/Kaylie-Verner/static/js/main.40d45477.chunk.js.map",
+    "runtime-main.js": "/Kaylie-Verner/static/js/runtime-main.8faaa0e6.js",
+    "runtime-main.js.map": "/Kaylie-Verner/static/js/runtime-main.8faaa0e6.js.map",
+    "static/js/2.e6d55a00.chunk.js": "/Kaylie-Verner/static/js/2.e6d55a00.chunk.js",
+    "static/js/2.e6d55a00.chunk.js.map": "/Kaylie-Verner/static/js/2.e6d55a00.chunk.js.map",
+    "index.html": "/Kaylie-Verner/index.html",
+    "precache-manifest.9c183c88919aa2939b51ac127c10e1d4.js": "/Kaylie-Verner/precache-manifest.9c183c88919aa2939b51ac127c10e1d4.js",
+    "service-worker.js": "/Kaylie-Verner/service-worker.js",
+    "static/css/main.1afc41c1.chunk.css.map": "/Kaylie-Verner/static/css/main.1afc41c1.chunk.css.map",
+    "static/js/2.e6d55a00.chunk.js.LICENSE.txt": "/Kaylie-Verner/static/js/2.e6d55a00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8faaa0e6.js",
+    "static/js/2.e6d55a00.chunk.js",
+    "static/css/main.1afc41c1.chunk.css",
+    "static/js/main.40d45477.chunk.js"
+  ]
+}
