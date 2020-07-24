@@ -1,11 +1,12 @@
 import React from "react";
+import "./Skills.css";
 
 function Skills() {
 
   return (
     <div className="Skills" id="Skills">
         <div className="SkillsContents">
-        <h3>Skills</h3>
+        <h3 className="mb-4">Skills</h3>
         <div className="row">
           <div className="col">
             <div className="card">
