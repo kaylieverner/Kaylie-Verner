@@ -19,3 +19,7 @@ input {
 form {
     color: black;
 }
+
+button {
+    font-family: 'Didact Gothic', sans-serif;
+  }
