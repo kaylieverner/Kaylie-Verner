@@ -5,9 +5,7 @@ import "./App.css";
 
 function App() {
   return (
-  <BrowserRouter>
-      <Route exact path="/" component={Home} />                
-  </BrowserRouter>
+  <Home></Home>
   );
 }
  
