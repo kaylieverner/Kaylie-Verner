@@ -11,18 +11,30 @@ ul#MainLinksList {
     list-style: none;
     padding: 0;
     padding-top: 20px;
-	}
-	ul#MainLinksList li {
-        display: inline;
-        font-size: 20px;
+
+  }
+  
+ul#MainLinksList li {
+    display: inline;
+    font-size: 20px;
     }
     
 .MainBox {
     text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+h1 {
+  font-size: 80px;
+  font-weight: 700;
+}
+
+h3 {
+  font-size: 30px;
 }
 
 a{
     text-decoration: none;
+    color: black;
 }
 
 .MainBoxContents {
@@ -38,15 +50,13 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background: url(https://lh3.googleusercontent.com/pw/ACtC-3dxSEVU-l7HE7Y72t5nk9fLKOw5njiwwR6JW_HVOGsWNRQ6rwfy3_A2mHu2amZTjOyhkeRySHDtHX7QTJXqrOpYwjbCoeyUMFezqpi-58ppwp24OVdSKU8wd5oc4W1e5ehck69O889C02nQs685O_VBlQ=w1203-h802-no?authuser=0)  no-repeat center center fixed;
+  background: url(https://lh3.googleusercontent.com/pw/ACtC-3fEuDE4cj8yEOSyljjAWwRaz5T_ACL3XqsaZl-BjjEqdtLf9Etj7Jw6QD9DFKnQIGiopHmOdJm_e_icVf_nRwd32kvj8uiYHQVq2EdFv12KiRHex-PV1TsBK-UHmd9bMRD4hhWI00zvFd1NfQECRG7U7g=w1203-h802-no?authuser=0)  no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 
 }
-
-
   
   * {
     box-sizing: border-box;

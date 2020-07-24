@@ -4,9 +4,9 @@
     padding: 70px 0;
     height: 100vh;
     width: 100vw;
-  
     padding: 10px;
     font-size: 20px;
+    font-family: 'Didact Gothic', sans-serif;
 }
 
 html,
@@ -17,4 +17,11 @@ body {
   
   * {
     box-sizing: border-box;
+  }
+
+  .SecondBoxContents {
+    background: grey;
+    width: 90%;
+    margin: auto;
+    opacity: .9;
   }

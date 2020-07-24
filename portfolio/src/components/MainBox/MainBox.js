@@ -7,11 +7,11 @@ function MainBox() {
     <div className="MainBox">
       <div className="MainBoxContents">
         <div className="MainHeading">
-          <h1>Kaylie Verner</h1>
+          <h1>KAYLIE A. VERNER</h1>
           <h3>Full Stack Developer</h3>
         </div>
         <div id="LinksContainer">
-        <div className="MainLinksDiv">
+        <div className="MainLinksDiv mt-3">
           <ul id="MainLinksList">
             <li><a href="#About">About</a> </li>
             <li><a href="#Skills">Skills</a> </li>

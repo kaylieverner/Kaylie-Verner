@@ -38,12 +38,12 @@ function Contact() {
       <p className="text-center">
         <a target="_blank" href="https://github.com/kaylieverner">
         <img className="contactIcon"
-            src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Card image cap"/></a>
+            src="https://cdn.iconscout.com/icon/free/png-512/github-154-675675.png" alt="Github logo"/> </a>
         <a target="_blank" href="https://www.linkedin.com/in/vernerk/"><img className="contactIcon"
-            src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png"
-            alt="Card image cap"/></a>
+            src="https://image.flaticon.com/icons/png/512/61/61109.png"
+            alt="Card image cap"/> </a>
         <a target="_blank" href="mailto:k.verner37@gmail.com"><img className="contactIcon"
-            src="https://images.vexels.com/media/users/3/140137/isolated/preview/d5ce03b9b26818e8020ad0972de98baa-email-round-icon-by-vexels.png"
+            src="https://cdn3.iconfinder.com/data/icons/basic-interface/100/mail-512.png"
             alt="Card image cap"/></a>
       </p>
     </div>
