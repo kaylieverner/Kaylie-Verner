@@ -1,0 +1,25 @@
+.contactIcon {
+    height: 40px;
+    width: 40px;
+}
+
+.Contact {
+    margin: auto;
+    padding: 65px 65px 0px 65px;
+}
+
+label {
+    font-size: 20px;
+}
+
+input {
+    font-size: 20px;
+}
+
+form {
+    color: black;
+}
+
+button {
+    font-family: 'Didact Gothic', sans-serif;
+  }

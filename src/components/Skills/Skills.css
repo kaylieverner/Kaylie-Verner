@@ -1,0 +1,17 @@
+.Skills {
+    margin: auto;
+    padding: 65px 65px 0px 65px;
+}
+
+.skillHeading {
+    font-weight: bold;
+}
+
+.card {
+    border: none;
+    margin: 15px;
+}
+
+.card-body {
+    background: rgba(58, 63, 68, 0.46);
+}
