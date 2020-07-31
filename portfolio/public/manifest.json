@@ -7,7 +7,7 @@
     {"src":"/android-chrome-512x512.png",
     "sizes":"512x512","type":"image/png"}
     ],
-  "start_url": ".",
+  "start_url": "https://frosty-shannon-7c4e00.netlify.app/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
