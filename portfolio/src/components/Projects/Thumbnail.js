@@ -5,7 +5,7 @@ import "./Projects.css";
  
 function Thumbnail(props) {
     return (
-    <div className="col-4 text-center mb-1 project-container">
+    <div className="col-4 text-center mb-1 mt-3 project-container">
       <img src={props.image}
         height="400" width="400" alt="Card image cap" className="project-image"/>
       <div className="overlay">
